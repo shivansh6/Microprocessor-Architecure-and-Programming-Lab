@@ -1,0 +1,10 @@
+from VIVEK KUMAR PRASAD to everyone:    2:13 PM
+https://developers.google.com/protocol-buffers/docs/pythontutorial
+from VIVEK KUMAR PRASAD to everyone:    2:14 PM
+https://grpc.io/docs/languages/python/basics/
+from 18BCE166 POOJAN VIJAYKUMAR PATEL to everyone:    2:17 PM
+yes
+from VIVEK KUMAR PRASAD to everyone:    2:18 PM
+https://ballerina.io/learn/user-guide/network-communication/grpc/defining-the-service-interface/
+from VIVEK KUMAR PRASAD to everyone:    2:18 PM
+after protobuf they can go to gRPC in python or Ballerina
